@@ -71,6 +71,10 @@
 	$('.alert-box').on('click', '.close', function() {
           $(this).parent().fadeOut(500);
         });
+	
+	$('.alert-box').on('click', '.close', function() {
+          $(this).parent().fadeOut(500);
+        });
 
 
    /*-----------------------------------------------------*/
